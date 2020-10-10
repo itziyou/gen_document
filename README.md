@@ -11,7 +11,7 @@
 ```yaml
 spring:
   datasource:
-  	# url
+    # url
     url: jdbc:mysql://localhost:3306/febs_base?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2b8
     # 驱动
     driver-class-name: com.mysql.cj.jdbc.Driver
